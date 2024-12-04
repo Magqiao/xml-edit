@@ -1,0 +1,24 @@
+<data>
+    <country name="Liechtenstein">
+        <rank>yunweijia</rank>
+        <year>2022</year>
+        <gdppc>141100</gdppc>
+        <neighbor direction="E" name="Austria" />
+        <neighbor direction="W" name="Switzerland" />
+    </country>
+    <country name="Singapore">
+        <rank>yunweijia</rank>
+        <year>2029</year>
+        <gdppc>59900</gdppc>
+        <neighbor direction="N" name="Malaysia" />
+    </country>
+    <country name="Panama">
+        <rank>yunweijia</rank>
+        <year>2024</year>
+            <month>12</month>
+                <day>4</day>
+        <gdppc>13600</gdppc>
+        <neighbor direction="W" name="Costa Rica" />
+        <neighbor direction="E" name="Colombia" />
+    </country>
+</data>
